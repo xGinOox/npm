@@ -1,6 +1,6 @@
-﻿token= NDk3MDY2ODc2OTc1OTcyMzY0.DtW9pA.MGO5r6e8RxVvqQlOlq91WdbZWuY
-owner= 475139638206660629
+﻿token=NDk3MDY2ODc2OTc1OTcyMzY0.Dt4u1w.QdpaMJ-UTO-IglOcIkthYH78xDk
+owner=475139638206660629
 prefix= ~
-game= #First Bot (:
+game=#First Bot (:
 stayinchannel=true
 songinstatus=false
