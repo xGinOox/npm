@@ -1,0 +1,7 @@
+?token= NDk3MDY2ODc2OTc1OTcyMzY0.Dt4zaw.LuEeOfDhd-7qTfNco_cp7RpWnZQ
+owner= 475139638206660629
+prefix= ~
+game= #First Bot (:
+stayinchannel=true
+songinstatus=false
+token=NDk3MDY2ODc2OTc1OTcyMzY0.Dt4zaw.LuEeOfDhd-7qTfNco_cp7RpWnZQ
