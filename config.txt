@@ -1,4 +1,4 @@
-﻿token=NDk3MDY2ODc2OTc1OTcyMzY0.Dt4u1w.QdpaMJ-UTO-IglOcIkthYH78xDk
+﻿token=NDk3MDY2ODc2OTc1OTcyMzY0.Dt4v4g.b2TF3U31grt2LdSHBV0GuiwfiZY
 owner=475139638206660629
 prefix= ~
 game=#First Bot (:
